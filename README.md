@@ -1,4 +1,4 @@
-# ButlerBootsLV
+# Kickstarting with Excel
 
 ## Overview of Project
 	Kickstarting with Excel is a crash course wher we learn how to apply formulas, create pivot tables, import data and analyze visualizations. This Kickstarter project is to help Louise with her crowdfudning for her new play "Fever"and give her insights on what she would need for the fundraiser. 
